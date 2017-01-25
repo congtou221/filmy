@@ -1,0 +1,16 @@
+{
+    "_default": "en",
+
+    "back": {
+        "en": "Back",
+        "zh": "返回"
+    },
+    "home": {
+        "en": "Home",
+        "zh": "首页"
+    },
+    "category": {
+        "en": "Category",
+        "zh": "分类"
+    }
+}
